@@ -1,1 +1,1 @@
-# Optimizarea-traficului-ntr-o-intersec-ie-folosind-AnyLogic
+# Optimizarea traficului într-o intersecție folosind AnyLogic
