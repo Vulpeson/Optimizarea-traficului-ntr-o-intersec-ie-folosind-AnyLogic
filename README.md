@@ -1,4 +1,4 @@
-# Optimizarea-traficului-ntr-o-intersec-ie-folosind-AnyLogic
+# Optimizarea traficulu intr-o intersectie folosind AnyLogic
 
 Proiectul nostru a avut ca scop optimizarea traficului într-o intersecție prin utilizarea platformei AnyLogic, un puternic software de simulare și modelare.
 
